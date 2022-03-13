@@ -232,6 +232,7 @@ nav {
   }
 }
 @media all and (max-width: 670px) {
+.text-1 { margin-top: 20px; }
   .container {
     margin: 0 10px;
   }
